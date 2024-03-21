@@ -22,4 +22,4 @@ Other Tools and Libraries:
 Vuex: State management pattern + library for Vue.js applications.
 Axios: Promise-based HTTP client for the browser and Node.js.
 Vuetify: Material Design component framework for Vue.js.
-Django REST Knox: Token-based authentication system.
+Django REST Knox: Token-based authentication system
